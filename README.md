@@ -15,6 +15,11 @@ A python script for extracting WhatsApp conversations from the app's SQLite data
 3. After Decrypt WhatsApp Databse Paste same whatsapp-hack folder Both file (msgstore.db & wa.db)
 4. Run the main script.
 
+  
+```shell
+git clone https://github.com/LinuxndroidTeam/Whatsapp-Hack && cd Whatsapp-Hack
+```
+  
 ```shell
 python3 main.py
 ```
