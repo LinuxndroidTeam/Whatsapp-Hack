@@ -33,7 +33,7 @@ Wow Done, Now visit your http://youtip:8080 and see your Whatsapp Chat History..
   
 
 <br>
-<p align="center">Re-Edit with ❤️ By <a href="https://shop-linuxndroid.in">Linuxndroid</a></p>
+<p align="center">Love ❤️ By <a href="https://shop-linuxndroid.in">Linuxndroid</a></p>
 
 
 ## Follow Me on :
