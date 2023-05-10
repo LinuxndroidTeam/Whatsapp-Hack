@@ -28,6 +28,9 @@ python3 main.py
   
 After Run script index.html files paste automatic your root folder, If you want see then start your python server in root directory
   
+  ```shell
+cd /root/
+```
 ```shell
 python3 -m http server 8080
 ```
